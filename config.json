@@ -1,0 +1,15 @@
+{
+  "token": "ENTER YOUR BOT, OR ACCOUNT TOKEN HERE!",
+  "status": "offline",
+  "mirrors": [
+    {
+      "channel_ids": [
+        "enter the channel id of the channel you want to SPY ON! HERE"
+      ],
+      "webhooks_urls": [
+        "enter your discord server's webhook here"
+      ]
+    }
+  ],
+  "mentions": {}
+}
